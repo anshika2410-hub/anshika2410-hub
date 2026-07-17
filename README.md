@@ -104,4 +104,16 @@ Responsive portfolio website to showcase skills, projects, and professional prof
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=anshika2410-hub&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Connect With Me
+
+* 💼LinkedIn: https://www.linkedin.com/in/contact-anshikaagrawal/
+* 📧Email: anshikaagrawal2410@gmail.com
+* 🌐Portfolio: https://anshika2410-hub.github.io/Personal_Portfolio/
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+Happy Coding! 🚀
