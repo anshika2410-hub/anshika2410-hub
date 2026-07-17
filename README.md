@@ -2,14 +2,14 @@
 
 Hi, I'm Anshika Agrawal 👋
 
-I'm a Full Stack Developer passionate about building scalable web applications and AI-powered solutions. 
-I enjoy working with modern technologies like React, Node.js, FastAPI, and exploring the intersection of software development and artificial intelligence.
+I'm a **Full Stack Developer** passionate about building scalable web applications and AI-powered solutions. 
+I enjoy working with modern technologies like **React, Node.js, FastAPI,** and exploring the intersection of software development and artificial intelligence.
 
 - 🔭 Currently building full-stack and AI-driven applications
 - 🌱 Learning advanced backend architectures and AI technologies
 - 💡 Interested in Web Development, APIs, and Intelligent Systems
 
-## 💻 Tech Stack:
+## 💻 Technical Skills:
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -17,8 +17,6 @@ I enjoy working with modern technologies like React, Node.js, FastAPI, and explo
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 
@@ -53,6 +51,8 @@ I enjoy working with modern technologies like React, Node.js, FastAPI, and explo
 ### 🤖 AI-First CRM Assistant
 AI-powered CRM application designed to provide intelligent customer insights and assistance.
 
+**Repository:** [View Project](https://github.com/anshika2410-hub/AI-First-CRM)
+
 **Tech Stack:** React • FastAPI • Python • LangGraph • Groq API • SQLite
 
 ✨ Features:
@@ -60,9 +60,10 @@ AI-powered CRM application designed to provide intelligent customer insights and
 - Intelligent assistant integration
 - Modern dashboard interface
 
-
 ### 📸 AI-Based Attendance Management System
 Face recognition based attendance system that automates student attendance tracking.
+
+**Repository:** [View Project](https://github.com/anshika2410-hub/AI-based-Attendance-management-system)
 
 **Tech Stack:** Python • Flask • OpenCV
 
@@ -71,9 +72,10 @@ Face recognition based attendance system that automates student attendance track
 - Automated attendance marking
 - Teacher dashboard management
 
-
 ### 💬 Real-Time Chat Application
 A real-time messaging application enabling instant communication between users.
+
+**Repository:** [View Project](https://github.com/anshika2410-hub/realtime-chat-app)
 
 **Tech Stack:** React • Node.js • Socket.io • MongoDB
 
@@ -82,17 +84,17 @@ A real-time messaging application enabling instant communication between users.
 - Online/offline user status
 - Live communication
 
-
 ### 🌐 Personal Portfolio Website
 Responsive portfolio website to showcase skills, projects, and professional profile.
 
-**Tech Stack:** React • Vite • Tailwind CSS
+**Repository:** [View Project](https://github.com/anshika2410-hub/Personal_Portfolio)
+
+**Tech Stack:** React • Vite • CSS3 • HTML5 • Javascript
 
 ✨ Features:
 - Dark/light theme toggle
 - Resume download
 - Responsive UI design
-
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=anshika2410-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
