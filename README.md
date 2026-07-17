@@ -101,8 +101,9 @@ Responsive portfolio website to showcase skills, projects, and professional prof
 ![](https://streak-stats.demolab.com/?user=anshika2410-hub&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=anshika2410-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
 ![Profile Views](https://komarev.com/ghpvc/?username=anshika2410-hub&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
+---
 
 ## Connect With Me
 
