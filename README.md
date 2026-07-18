@@ -9,9 +9,10 @@ I enjoy working with modern technologies like **React, Node.js, FastAPI,** and e
 - 🌱 Learning advanced backend architectures and AI technologies
 - 💡 Interested in Web Development, APIs, and Intelligent Systems
 
-- ## 💻 Technical Skills:
+## 💻 Technical Skills
 
 ### 🌐 Frontend
+
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
