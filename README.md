@@ -49,10 +49,8 @@ I enjoy working with modern technologies like **React, Node.js, FastAPI,** and e
 
 ## 🚀 Featured Projects
 
-### 🤖 AI-First CRM Assistant
+### 🤖 AI-First CRM Assistant  
 AI-powered CRM application designed to provide intelligent customer insights and assistance.
-
-**Repository:** [View Project](https://github.com/anshika2410-hub/AI-First-CRM)
 
 **Tech Stack:** React • FastAPI • Python • LangGraph • Groq API • SQLite
 
@@ -61,10 +59,11 @@ AI-powered CRM application designed to provide intelligent customer insights and
 - Intelligent assistant integration
 - Modern dashboard interface
 
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshika2410-hub/AI-First-CRM)
+
+
 ### 📸 AI-Based Attendance Management System
 Face recognition based attendance system that automates student attendance tracking.
-
-**Repository:** [View Project](https://github.com/anshika2410-hub/AI-based-Attendance-management-system)
 
 **Tech Stack:** Python • Flask • OpenCV
 
@@ -73,10 +72,11 @@ Face recognition based attendance system that automates student attendance track
 - Automated attendance marking
 - Teacher dashboard management
 
+ [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshika2410-hub/AI-based-Attendance-management-system)
+
+
 ### 💬 Real-Time Chat Application
 A real-time messaging application enabling instant communication between users.
-
-**Repository:** [View Project](https://github.com/anshika2410-hub/realtime-chat-app)
 
 **Tech Stack:** React • Node.js • Socket.io • MongoDB
 
@@ -85,10 +85,11 @@ A real-time messaging application enabling instant communication between users.
 - Online/offline user status
 - Live communication
 
+ [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshika2410-hub/realtime-chat-app)
+
+
 ### 🌐 Personal Portfolio Website
 Responsive portfolio website to showcase skills, projects, and professional profile.
-
-**Repository:** [View Project](https://github.com/anshika2410-hub/Personal_Portfolio)
 
 **Tech Stack:** React • Vite • CSS3 • HTML5 • Javascript
 
@@ -97,14 +98,20 @@ Responsive portfolio website to showcase skills, projects, and professional prof
 - Resume download
 - Responsive UI design
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=anshika2410-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![GitHub Streak](https://streak-stats.demolab.com?user=anshika2410-hub&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=anshika2410-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshika2410-hub/Personal_Portfolio)
+ 
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=anshika2410-hub&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=anshika2410-hub&layout=compact&theme=tokyonight&hide_border=true)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anshika2410-hub&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
+
 ---
+
 
 ## Connect With Me
 
