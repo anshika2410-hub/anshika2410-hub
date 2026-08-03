@@ -1,178 +1,121 @@
-<!-- ========================= HEADER ========================= -->
+# 💫 About Me:
 
-<div align="center">
+Hi, I'm Anshika Agrawal 👋
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="assets/banner.svg?v=2">
+I'm a **Full Stack Developer** passionate about building scalable web applications and AI-powered solutions.
+I enjoy working with modern technologies like **React, Node.js, FastAPI,** and exploring the intersection of software development and artificial intelligence.
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="assets/banner-light.svg?v=2">
+- 🔭 Currently building full-stack and AI-driven applications
+- 🌱 Learning advanced backend architectures and AI technologies
+- 💡 Interested in Web Development, APIs, and Intelligent Systems
 
-  <img
-    src="assets/banner.svg?v=2"
-    alt="Anshika Agrawal Banner"
-    width="100%">
-</picture>
+## 💻 Technical Skills
 
-<br><br>
+### 🌐 Frontend
 
-# ✨ Hi, I'm Anshika Agrawal 👋
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-### Full Stack Developer • AI/ML Engineer • Computer Vision Enthusiast
 
-<p>
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-black.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-Building AI Powered Applications using React, FastAPI & Python
 
-</p>
+### 🤖 AI & Data Science
+![Python](https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-</div>
 
----
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-# 💫 About Me
 
-<img align="right" width="320" src="./assets/lanyard.svg?v=1">
+### 🛠️ Tools & Deployment
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
-🎓 Computer Science (AI & ML)
+## 🚀 Featured Projects
 
-💜 Passionate about AI & Web Development
+### 🤖 AI-First CRM Assistant
+AI-powered CRM application designed to provide intelligent customer insights and assistance.
 
-⚡ Building scalable Full Stack applications
+**Repository:** [View Project](https://github.com/anshika2410-hub/AI-First-CRM)
 
-🤖 Love Computer Vision & Automation
+**Tech Stack:** React • FastAPI • Python • LangGraph • Groq API • SQLite
 
-🚀 Currently working on
+✨ Features:
+- AI-powered customer summaries
+- Intelligent assistant integration
+- Modern dashboard interface
 
-- AI Attendance System
-- AI CRM Assistant
-- Portfolio
-- Real-Time Chat Application
+### 📸 AI-Based Attendance Management System
+Face recognition based attendance system that automates student attendance tracking.
 
----
+**Repository:** [View Project](https://github.com/anshika2410-hub/AI-based-Attendance-management-system)
 
-# 🚀 Tech Stack
+**Tech Stack:** Python • Flask • OpenCV
 
-<p align="center">
+✨ Features:
+- Face detection and recognition
+- Automated attendance marking
+- Teacher dashboard management
 
-<img src="https://skillicons.dev/icons?i=react,python,fastapi,flask,nodejs,express,mongodb,mysql,git,github,vscode,tailwind,html,css,js,vite" />
+### 💬 Real-Time Chat Application
+A real-time messaging application enabling instant communication between users.
 
-</p>
+**Repository:** [View Project](https://github.com/anshika2410-hub/realtime-chat-app)
 
----
+**Tech Stack:** React • Node.js • Socket.io • MongoDB
 
-# 📊 GitHub Dashboard
+✨ Features:
+- Real-time messaging
+- Online/offline user status
+- Live communication
 
-<div align="center">
+### 🌐 Personal Portfolio Website
+Responsive portfolio website to showcase skills, projects, and professional profile.
 
-<img src="./assets/stats.svg?v=1" width="49%">
+**Repository:** [View Project](https://github.com/anshika2410-hub/Personal_Portfolio)
 
-<img src="./assets/langs.svg?v=1" width="49%">
+**Tech Stack:** React • Vite • CSS3 • HTML5 • Javascript
 
-</div>
+✨ Features:
+- Dark/light theme toggle
+- Resume download
+- Responsive UI design
 
-<br>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=anshika2410-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=anshika2410-hub&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=anshika2410-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-
-<img src="./assets/trophies.svg?v=1" width="80%">
-
-</div>
-
----
-
-# 🌟 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🤖 AI Attendance Management | Face Recognition Attendance System | Flask, OpenCV |
-| 💜 AI CRM Assistant | AI Powered CRM | React, FastAPI |
-| 💬 Real Time Chat App | Socket.IO Chat | MERN |
-| 🌐 Portfolio Website | Responsive Portfolio | React |
-
----
-
-# 🛠 Skills
-
-```txt
-Languages
-Python
-JavaScript
-HTML5
-CSS3
-
-Frontend
-React
-Tailwind
-Bootstrap
-
-Backend
-FastAPI
-Flask
-Node
-Express
-
-Database
-MongoDB
-MySQL
-
-AI
-OpenCV
-Face Recognition
-NumPy
-Pandas
-Groq API
-```
+![Profile Views](https://komarev.com/ghpvc/?username=anshika2410-hub&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 ---
 
-# 🌐 Connect with Me
+## Connect With Me
 
-<p align="center">
-
-<a href="mailto:anshikagrawal2410@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://github.com/anshika2410-hub">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://linkedin.com/in/anshika-agrawal">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-</a>
-
-</p>
+* 💼LinkedIn: https://www.linkedin.com/in/contact-anshikaagrawal/
+* 📧Email: anshikaagrawal2410@gmail.com
+* 🌐Portfolio: https://anshika2410-hub.github.io/Personal_Portfolio/
 
 ---
 
-# 🐍 Contribution Snake
+### ⭐ Thanks for visiting my profile!
 
-<p align="center">
+If you like my work, consider giving a ⭐ to my repositories.
 
-<img src="https://raw.githubusercontent.com/anshika2410-hub/anshika2410-hub/output/github-contribution-grid-snake.svg">
-
-</p>
-
----
-
-# 👀 Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=anshika2410-hub&style=for-the-badge">
-
-</p>
-
----
-
-<div align="center">
-
-### 💜 Thanks for visiting my profile 💜
-
-*"Code • Create • Inspire"*
-
-</div>
+Happy Coding! 🚀
