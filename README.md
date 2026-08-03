@@ -99,7 +99,7 @@ Responsive portfolio website to showcase skills, projects, and professional prof
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=anshika2410-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=anshika2410-hub&theme=dark&hide_border=false)<br/>
+![GitHub Streak](https://streak-stats.demolab.com?user=anshika2410-hub&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=anshika2410-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anshika2410-hub&label=Profile%20Views&color=0e75b6&style=for-the-badge)
