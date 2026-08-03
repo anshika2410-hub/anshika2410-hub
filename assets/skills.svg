@@ -1,1 +1,176 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900"
+     height="560"
+     viewBox="0 0 900 560">
 
+<defs>
+
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#190028"/>
+    <stop offset="100%" stop-color="#32005d"/>
+</linearGradient>
+
+<linearGradient id="ring">
+    <stop offset="0%" stop-color="#ff4fa8"/>
+    <stop offset="100%" stop-color="#7b5cff"/>
+</linearGradient>
+
+<filter id="glow">
+    <feDropShadow dx="0" dy="0" stdDeviation="8"
+    flood-color="#ff4fa8"/>
+</filter>
+
+<style>
+
+.title{
+font:700 30px Verdana;
+fill:white;
+}
+
+.skill{
+font:700 18px Verdana;
+fill:white;
+text-anchor:middle;
+}
+
+.level{
+font:14px Verdana;
+fill:#dddddd;
+text-anchor:middle;
+}
+
+.ring{
+fill:none;
+stroke:url(#ring);
+stroke-width:8;
+stroke-linecap:round;
+stroke-dasharray:377;
+animation:load 2s ease forwards;
+}
+
+@keyframes load{
+from{
+stroke-dashoffset:377;
+}
+to{
+stroke-dashoffset:70;
+}
+}
+
+.orb{
+animation:float 4s ease-in-out infinite;
+transform-origin:center;
+}
+
+@keyframes float{
+
+0%{transform:translateY(0);}
+50%{transform:translateY(-10px);}
+100%{transform:translateY(0);}
+
+}
+
+</style>
+
+</defs>
+
+<rect
+width="900"
+height="560"
+rx="25"
+fill="url(#bg)"/>
+
+<text
+x="40"
+y="50"
+class="title">
+
+⚡ Tech Stack
+
+</text>
+
+<!-- React -->
+
+<g class="orb">
+
+<circle cx="140" cy="160" r="60" class="ring"/>
+
+<text x="140" y="155" font-size="36">⚛</text>
+
+<text x="140" y="205" class="skill">React</text>
+
+<text x="140" y="228" class="level">Frontend</text>
+
+</g>
+
+<!-- Python -->
+
+<g class="orb">
+
+<circle cx="370" cy="160" r="60" class="ring"/>
+
+<text x="370" y="155" font-size="36">🐍</text>
+
+<text x="370" y="205" class="skill">Python</text>
+
+<text x="370" y="228" class="level">Backend / AI</text>
+
+</g>
+
+<!-- FastAPI -->
+
+<g class="orb">
+
+<circle cx="600" cy="160" r="60" class="ring"/>
+
+<text x="600" y="155" font-size="34">🚀</text>
+
+<text x="600" y="205" class="skill">FastAPI</text>
+
+<text x="600" y="228" class="level">REST APIs</text>
+
+</g>
+
+<!-- JavaScript -->
+
+<g class="orb">
+
+<circle cx="140" cy="390" r="60" class="ring"/>
+
+<text x="140" y="385" font-size="34">🟨</text>
+
+<text x="140" y="435" class="skill">JavaScript</text>
+
+<text x="140" y="458" class="level">ES6+</text>
+
+</g>
+
+<!-- MongoDB -->
+
+<g class="orb">
+
+<circle cx="370" cy="390" r="60" class="ring"/>
+
+<text x="370" y="385" font-size="34">🍃</text>
+
+<text x="370" y="435" class="skill">MongoDB</text>
+
+<text x="370" y="458" class="level">Database</text>
+
+</g>
+
+<!-- OpenCV -->
+
+<g class="orb">
+
+<circle cx="600" cy="390" r="60" class="ring"/>
+
+<text x="600" y="385" font-size="34">👁️</text>
+
+<text x="600" y="435" class="skill">OpenCV</text>
+
+<text x="600" y="458" class="level">Computer Vision</text>
+
+</g>
+
+</svg>
